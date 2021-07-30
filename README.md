@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-## 📊깃허브 스탯
+##  📊깃허브 스탯
 
 <!--
 **sonyujin95/sonyujin95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
