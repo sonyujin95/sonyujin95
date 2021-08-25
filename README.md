@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 ## 📚 기술 스택
 
-https://img.shields.io/static/v1?label=<LABEL>&python=<MESSAGE>&orange=<COLOR>
+https://img.shields.io/badge/-python-orange
