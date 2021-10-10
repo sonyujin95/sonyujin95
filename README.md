@@ -38,6 +38,8 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/MySQL DB-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=OpenCV&logoColor=white"/>
 
 	
 
